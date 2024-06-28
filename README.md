@@ -1,8 +1,8 @@
 # PortfolioPiece3SQLProject
 
 This repository is to demonstrate some of the work in INFO601 Data Modelling and SQL.
-Across two of the assigmnents, we had to design and implement a database for a hypothetical client, in the case of this work
-that clien was a mobile phone retailer, with considerations for stock, supply, customers and sales.
+Across two of the assigmnents, tasked with the design and implement a database for a hypothetical client, in the case of this work
+that client was a mobile phone retailer, with considerations for stock, supply, customers and sales.
 
 This is the Entity Relational Diagram created to illustrate the database:
 ![ERD](https://github.com/c99999991/PortfolioPiece3SQLProject/assets/142708292/e83da87f-6d28-48d8-8684-7850720e211c)
