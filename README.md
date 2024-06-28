@@ -15,6 +15,10 @@ This is the SQL script to create the tables:
 
 This is the SQL script to populate the tabes:
 
+![SQL4](https://github.com/c99999991/PortfolioPiece3SQLProject/assets/142708292/4fd59fa3-41d5-429d-8364-58cf4716cf65)
+![SQL5](https://github.com/c99999991/PortfolioPiece3SQLProject/assets/142708292/f518a6f6-c95b-45a9-97af-41e50c3be1ba)
+![SQL6](https://github.com/c99999991/PortfolioPiece3SQLProject/assets/142708292/33f058b3-5280-4956-8d0c-6ea026bf09b2)
+![SQL7](https://github.com/c99999991/PortfolioPiece3SQLProject/assets/142708292/2f5cebf1-e2a0-4325-b189-aecc09bb540c)
 
 These images display the content of the database tables:
 
