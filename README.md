@@ -10,14 +10,19 @@ This is the Entity Relational Diagram created to illustrate the database:
 This is the SQL script to create the tables:
 
 ![SQL1](https://github.com/c99999991/PortfolioPiece3SQLProject/assets/142708292/bdda47ca-e7a9-4c32-8299-187ee3afac39)
+
 ![SQL2](https://github.com/c99999991/PortfolioPiece3SQLProject/assets/142708292/a0f8e276-efc5-47e8-a641-0bf30a0624f8)
+
 ![SQL3](https://github.com/c99999991/PortfolioPiece3SQLProject/assets/142708292/33ae1b28-9601-431a-abab-084c31664275)
 
 This is the SQL script to populate the tabes:
 
 ![SQL4](https://github.com/c99999991/PortfolioPiece3SQLProject/assets/142708292/4fd59fa3-41d5-429d-8364-58cf4716cf65)
+
 ![SQL5](https://github.com/c99999991/PortfolioPiece3SQLProject/assets/142708292/f518a6f6-c95b-45a9-97af-41e50c3be1ba)
+
 ![SQL6](https://github.com/c99999991/PortfolioPiece3SQLProject/assets/142708292/33f058b3-5280-4956-8d0c-6ea026bf09b2)
+
 ![SQL7](https://github.com/c99999991/PortfolioPiece3SQLProject/assets/142708292/2f5cebf1-e2a0-4325-b189-aecc09bb540c)
 
 These images display the content of the database tables:
