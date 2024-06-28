@@ -9,6 +9,9 @@ This is the Entity Relational Diagram created to illustrate the database:
 
 This is the SQL script to create the tables:
 
+![SQL1](https://github.com/c99999991/PortfolioPiece3SQLProject/assets/142708292/bdda47ca-e7a9-4c32-8299-187ee3afac39)
+![SQL2](https://github.com/c99999991/PortfolioPiece3SQLProject/assets/142708292/a0f8e276-efc5-47e8-a641-0bf30a0624f8)
+![SQL3](https://github.com/c99999991/PortfolioPiece3SQLProject/assets/142708292/33ae1b28-9601-431a-abab-084c31664275)
 
 This is the SQL script to populate the tabes:
 
